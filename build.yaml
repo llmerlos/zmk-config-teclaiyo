@@ -12,3 +12,10 @@
 #     shield: reviung41
 #
 ---
+include:
+  - board: seeeduino_xiao_ble
+    shield: teclaiyo_left
+  - board: seeeduino_xiao_ble
+    shield: teclaiyo_right 
+  - board: seeeduino_xiao_ble 
+    shield: settings_reset

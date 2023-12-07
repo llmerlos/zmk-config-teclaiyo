@@ -1,0 +1,16 @@
+if SHIELD_TECLAIYO_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "TECLAIYO"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_TECLAIYO_LEFT || SHIELD_TECLAIYO_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
