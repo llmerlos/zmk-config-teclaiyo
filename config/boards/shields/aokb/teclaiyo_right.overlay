@@ -1,4 +1,4 @@
-#include "aokb.dtsi" // Notice that the main dtsi files are included in the overlay.
+#include "teclaiyo.dtsi" // Notice that the main dtsi files are included in the overlay.
 
 &default_transform {
 	col-offset = <5>;
