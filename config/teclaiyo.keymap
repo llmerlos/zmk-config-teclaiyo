@@ -81,7 +81,7 @@
             &kp Q       &kp W       &kp E       &kp R       &kp T                   &kp Y       &kp U       &kp I       &kp O       &kp P
 &kp TAB     &kp A       &kp S       &kp D       &kp F       &kp G                   &kp H       &kp J       &kp K       &kp L       &kp SEMI    &kp RET
 &kp LCTL    &kp Z       &kp X       &kp C       &kp V       &kp B                   &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp RSFT
-                                    &kp LWIN    &mo _RAISE  &kp SPACE               &mo _LOWER  &kp LALT    &kp BSPC    
+                                    &kp LWIN    &mo _RAISE  &kp SPACE               &kp BSPC    &mo _LOWER  &kp RALT     
             >;
         };
 
@@ -91,7 +91,7 @@
             &kp TAB     &kp Q       &kp W       &kp E       &kp R                   &kp Y       &kp U       &kp I       &kp O       &kp P                
 &kp ESC     &kp LSFT    &kp A       &kp S       &kp D       &kp F                   &kp H       &kp J       &kp K       &kp L       &kp SEMI    &kp RET 
 &kp T       &kp LCTL    &kp Z       &kp X       &kp C       &kp V                   &kp N       &kp M       &kp VD_L    &kp VD_U    &kp VD_R    &kp LGUI
-                                    &kp LALT    &mo _GNUM   &kp SPACE               &mo _LOWER  &talpha     &kp BSPC      
+                                    &kp LALT    &mo _GNUM   &kp SPACE               &kp BSPC    &mo _LOWER  &talpha          
             >;
         };
 
