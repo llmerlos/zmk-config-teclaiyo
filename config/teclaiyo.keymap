@@ -108,9 +108,9 @@
         lower_layer {
             bindings = <
 //          |           |           |           |           |           |           |           |           |           |           |           |           |           
-            &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT               &kp CARET   &kp AMPS    &kp ASTRK   &kp LPAR    &kp RPAR               
-&kp ESC     &kp TILDE   &kp MINUS   &qp PLUS    &qp EQUAL   &kp E_LL                &kp LBRC    &kp LBKT    &kp RBKT    &kp RBRC    &kp SQT     &trans    
-&trans      &kp GRAVE   &kp E_OM    &kp E_OF    &kp UNDER   &kp E_EUR               &kp BSLH    &kp PIPE    &kp LT      &kp GT      &kp DQT     &trans
+            &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT               &qa E_ACF   &kp HOME    &kp UP      &kp END     &qa E_AOB              
+&kp ESC     &kp TILDE   &kp MINUS   &qp PLUS    &qp EQUAL   &kp E_LL                &qa E_ADI   &kp LEFT    &kp DOWN    &kp RIGHT   &qa E_ATC   &trans    
+&trans      &kp GRAVE   &kp E_OM    &kp E_OF    &kp UNDER   &kp E_EUR               &kp PSCRN   &kp PG_DN   &kp INS     &kp PG_UP   &to _FUNCT  &trans
                                     &trans      &mo _RAISE  &trans                  &kp DEL     &mo _LOWER  &kp RALT    
             >;
         };
@@ -118,9 +118,9 @@
         raise_layer {
             bindings = <
 //          |           |           |           |           |           |           |           |           |           |           |           |           |           
-            &kp N1      &kp N2      &kp N3      &kp N4      &kp N5                  &qa E_ACF   &kp HOME    &kp UP      &kp END     &qa E_AOB              
-&kp ESC     &kp N6      &kp N7      &kp N8      &kp N9      &kp N0                  &qa E_ADI   &kp LEFT    &kp DOWN    &kp RIGHT   &qa E_ATC   &trans    
-&trans      &mo _FUNCT  &kp VD_L    &kp VD_U    &kp VD_R    &kp CAPS                &kp PSCRN   &kp PG_DN   &kp INS     &kp PG_UP   &to _FUNCT  &trans
+            &kp N1      &kp N2      &kp N3      &kp N4      &kp N5                  &kp CARET   &kp AMPS    &kp ASTRK   &kp LPAR    &kp RPAR               
+&kp ESC     &kp N6      &kp N7      &kp N8      &kp N9      &kp N0                  &kp LBRC    &kp LBKT    &kp RBKT    &kp RBRC    &kp SQT     &trans    
+&trans      &mo _FUNCT  &kp VD_L    &kp VD_U    &kp VD_R    &kp CAPS                &kp BSLH    &kp PIPE    &kp LT      &kp GT      &kp DQT     &trans
                                     &trans      &mo _RAISE  &trans                  &trans      &mo _LOWER  &kp RALT    
             >;
         };
