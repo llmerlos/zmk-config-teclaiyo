@@ -144,7 +144,7 @@
 &kp RCTL    &kp NUHS    &kp E_EYE   &kp E_DEG   &kp D_SIL   &kp C_MUTE              &kp C_NEXT &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &kp E_IQM &kp RALT
                                     &kp RWIN    &trans      &mo _RAISE              &mo _LOWER  &trans      &kp LSFT
             >;
-        };;
+        };
 
 / {
     conditional_layers {
