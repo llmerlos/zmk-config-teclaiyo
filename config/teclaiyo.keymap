@@ -111,7 +111,7 @@
 //          |           |           |           |           |           |           |           |           |           |           |           |           |           
             &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT               &qa E_AOB   &kp N7      &kp N8      &kp N9      &qa E_ATC              
 &trans      &kp TILDE   &kp MINUS   &qp PLUS    &qp EQUAL   &qa E_ADI               &qa E_ACF   &kp N4      &kp N5      &kp N6      &kp N0      &trans    
-&trans      &kp GRAVE   &kp FLSH    &kp ASTRK   &kp UNDER   &kp E_EUR               &kp E_NN    &kp N1      &kp N2      &kp N3      &mo _FUNCT  &kp RALT
+&trans      &kp GRAVE   &kp FSLH    &kp ASTRK   &kp UNDER   &kp E_EUR               &kp E_NN    &kp N1      &kp N2      &kp N3      &mo _FUNCT  &kp RALT
                                     &trans      &trans      &mo _RAISE              &mo _LOWER  &trans      &trans  
             >;
         };
