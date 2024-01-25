@@ -145,6 +145,8 @@
                                     &kp RWIN    &trans      &mo _RAISE              &mo _LOWER  &trans      &kp LSFT
             >;
         };
+    };
+};
 
 / {
     conditional_layers {
