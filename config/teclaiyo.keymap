@@ -141,8 +141,8 @@
 //          |           |           |           |           |           |           |           |           |           |           |           |           |           
             &kp E_IEX   &kp E_ATI   &kp E_LL    &kp D_SHS   &kp C_VOL_UP            &kp C_PREV  &kp INS     &kp PSCRN   &kp SLCK    &kp PAUSE_BREAK
 &trans      &kp CAPS    &kp E_OM    &kp E_OF    &kp D_MUT   &kp C_VOL_DN            &kp C_PP    &to _BASE   &to _GAME   &bt BT_SEL 3 &kp K_APP  &trans
-&kp RCTL    &kp NUHS    &kp E_EYE   &kp E_DEG   &kp D_SIL   &kp C_MUTE              &kp C_NEXT &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &kp E_IQM &kp RALT
-                                    &kp RWIN    &trans      &mo _RAISE              &mo _LOWER  &trans      &kp LSFT
+&kp RALT    &kp NUHS    &kp E_EYE   &kp E_DEG   &kp D_SIL   &kp C_MUTE              &kp C_NEXT &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &kp E_IQM &kp RCTL
+                                    &kp LSFT    &trans      &mo _RAISE              &mo _LOWER  &trans      &kp RWIN
             >;
         };
     };
