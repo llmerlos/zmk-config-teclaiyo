@@ -101,7 +101,7 @@
 //          |           |           |           |           |           |           |           |           |           |           |           |           |           
             &trans      &kp N1      &trans      &kp N2      &kp N3                  &kp VD_U    &trans      &kp UP      &trans      &kp VD_R
 &trans      &trans      &trans      &trans      &trans      &kp G                   &kp VD_L    &kp LEFT    &kp DOWN    &kp RIGHT   &trans      &kp LA(F4)
-&mo _FUNCT  &trans      &kp N4      &kp N5      &kp N6      &kp B                   &trans      &trans      &trans      &trans      &trans      &trans
+&trans      &trans      &kp N4      &kp N5      &kp N6      &kp B                   &trans      &trans      &trans      &trans      &trans      &trans
                                     &trans      &trans      &trans                  &trans      &trans      &trans    
             >;
         };
